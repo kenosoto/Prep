@@ -1,0 +1,18 @@
+h1 {
+    color: darkgoldenrod;
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+    width: 500px;
+    height: 600px;
+    background-color: lightgray;
+    padding: 50px;
+    border: solid blue;
+    border-radius: 5px;    
+}
+#spanId {
+    font-size: 25px;
+    margin: 50px;
+}
